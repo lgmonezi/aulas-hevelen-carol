@@ -1,0 +1,7 @@
+Tipos de Valores:
+	string 		Texto
+	number 		Numero
+	boolean 		Verdadeiro/Falso
+	null			Valor Nulo
+	undefined	Valor não definido
+*/

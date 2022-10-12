@@ -1,0 +1,9 @@
+Operadores Logicos:          								
+	== 	Igual à
+	===   Valor Igual e Tipo Igual
+	!= 	Diferente de
+	!==	Valores diferentes e tipos diferentes
+	> 		Maior que
+	>= 	Maior ou Igual à
+	< 		Menor que
+	<= 	Menor ou Igual à
